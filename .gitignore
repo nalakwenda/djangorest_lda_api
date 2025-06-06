@@ -1,0 +1,9 @@
+# Django stuff
+*.sqlite3
+db.sqlite3
+
+# NLTK data (optional if it's project-bound)
+nltk_data/
+
+#pytest
+.pytest_cache/
