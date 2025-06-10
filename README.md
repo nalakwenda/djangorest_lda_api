@@ -14,3 +14,5 @@ The project also includes a Jupyter Notebook for training and visualizing the mo
 - 📁 Clean and modular Django project structure
 
 ---
+pip install -r requirements.txt
+
